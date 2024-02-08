@@ -1,1 +1,1 @@
-# calculator
+# Responsive calculator
